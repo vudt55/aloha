@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 geee
 123
-=======
->>>>>>> parent of 1ac3b9f... version 2
+
